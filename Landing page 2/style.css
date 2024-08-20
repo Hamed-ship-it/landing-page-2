@@ -1,0 +1,99 @@
+body {
+  background-image: url("bacground/image.jpg");
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section {
+  min-height: 100vh;  
+  background-image: url("bacground/image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 90px;
+}
+nav {
+
+}
+
+ul li {
+  float: right;
+  line-height: 80px;
+  display: flex;
+  padding: 10px 20px;
+
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+
+}
+li {
+  
+  
+  list-style: none;
+  
+}
+li a {
+  color: aliceblue;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 5px;
+  
+}
+li a:hover {
+  color: brown;
+}
+h1 {
+  color: aliceblue;
+}
+nav{
+  display: flex;
+}
+h2 {
+  font-size: 36px;
+  color: aliceblue;
+  letter-spacing: 1.5px;
+font-weight: 800;
+margin-bottom: 300px;
+text-align: center;
+
+}
+.article {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  transform: translateY(25vh);
+  
+}
+h2 {
+  font-size: 45px;
+ 
+}
+.location {
+  margin-left: 90px;
+  margin-right: 90px;
+  
+}
+.sec {
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+button {
+  border-radius: 5px;
+  
+}
+.location button {
+  text-decoration: none; 
+}
+.search {
+  display: block;
+  margin-left: 1100px;
+}
+h1 {
+  font-family: algerian;
+  font-size: 40px;
+}
